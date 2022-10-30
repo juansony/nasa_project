@@ -2,7 +2,7 @@ name: NASA project CI
 on:
   push:
     branches: [ master ]
-  push:
+  pull_request:
     branches: [ master ]
 jobs:
   build:
