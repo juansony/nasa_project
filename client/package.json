@@ -11,7 +11,6 @@
     "react-scripts": "^4.0.3"
   },
   "scripts": {
-    "install": "npm run install",
     "start": "react-scripts start",
     "build": "set BUILD_PATH=../server/public&& react-scripts build",
     "test": "react-scripts test",
